@@ -18,7 +18,7 @@
 - **Languages**:
     
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    
 
 <br>   
     
@@ -37,8 +37,6 @@
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     
-
-
 <br>
 
 
@@ -46,13 +44,6 @@
 <br>
 <div align='left'>
 
-<ul>
-
-<li>
-<a href="www.linkedin.com/in/kyle-navarro-geek" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  kyle-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
 
 
 
