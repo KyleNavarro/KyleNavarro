@@ -17,20 +17,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 🚀 Proyectos destacados
-
-| Proyecto | Descripción | Tecnologías | Demo |
-|---|---|---|---|
-| [**Disafety**](https://github.com/KyleNavarro/Disafety) | Sitio web oficial de la empresa DISAFETY SAS | HTML · CSS · JavaScript | [disafety.co](https://disafety.co/) |
-| [**Super Pan Panadería**](https://github.com/KyleNavarro/Super-Pan-Panader-a) | Web de una panadería artesanal en Bucaramanga: catálogo, horarios, sedes y servicios | TypeScript | [Ver sitio](https://panaderiasuperpanbga.netlify.app/) |
-| [**Colombia Places**](https://github.com/KyleNavarro/Colombia-places) | Landing para descubrir lugares interesantes en las principales ciudades de Colombia | JavaScript | [Ver sitio](https://colombia-cities.netlify.app/) |
-| [**Petrorego SAS**](https://github.com/KyleNavarro/Pagina-web-Petrorego-sas) | Página corporativa con productos, contacto y ubicación | Tailwind CSS · JavaScript | [Ver sitio](https://petroregosas.netlify.app/) |
-| [**Laura Muñoz**](https://github.com/KyleNavarro/Lauramunoz) | Sitio de presentación personal para una profesional de abastecimiento | HTML · CSS · JavaScript | [Ver sitio](https://lauramuoz.netlify.app/) |
-| [**EPP Colombia**](https://github.com/KyleNavarro/epp_colombia) | Directorio de distribuidores de elementos de protección personal en Colombia | HTML · CSS | — |
-| [**Consumo API TheMealDB**](https://github.com/KyleNavarro/ConsumoAPITheMealDB) | Práctica de consumo de una API REST de recetas | TypeScript | — |
-
-<br>
-
 ## 🛠️ En lo que estoy trabajando
 
 - **AgentPrice** — Un chat cotizador con IA que cualquier negocio puede agregar a su web con una línea de código. El cliente escribe lo que necesita y recibe una cotización en imagen, PDF o Excel, con precios tomados de Google Sheets. *(Node.js · Express · Claude API)*
