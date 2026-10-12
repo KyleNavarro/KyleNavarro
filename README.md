@@ -17,7 +17,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 🛠️ En lo que estoy trabajando
+## 🚀 Mis proyectos
+
+<!--
+  PARA AGREGAR UN PROYECTO: copia esta línea, pégala al final de la lista y cambia los datos.
+  (Si no tiene link, borra la parte " · [Ver sitio](...)")
+
+- **Nombre del proyecto** — Qué hace, en una o dos frases. *(Tecnología · Tecnología)* · [Ver sitio](https://tu-link.com)
+-->
 
 - **AgentPrice** — Un chat cotizador con IA que cualquier negocio puede agregar a su web con una línea de código. El cliente escribe lo que necesita y recibe una cotización en imagen, PDF o Excel, con precios tomados de Google Sheets. *(Node.js · Express · Claude API)*
 - **Chantilly** — Web para una pastelería con catálogo por categorías, pedidos por WhatsApp y panel de administrador para gestionar productos y fotos. *(Vite · Tailwind CSS · Supabase)*
