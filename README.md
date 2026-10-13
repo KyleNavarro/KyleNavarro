@@ -28,7 +28,7 @@
 
 - **AgentPrice** — Un chat cotizador con IA que cualquier negocio puede agregar a su web con una línea de código. El cliente escribe lo que necesita y recibe una cotización en imagen, PDF o Excel, con precios tomados de Google Sheets. *(Node.js · Express · Claude API)*
 - **Chantilly** — Web para una pastelería con catálogo por categorías, pedidos por WhatsApp y panel de administrador para gestionar productos y fotos. *(Vite · Tailwind CSS · Supabase)*
-- **Texproseg 360°** — Landing corporativa para una empresa de dotación y EPP, hecha solo con HTML y CSS. *(HTML · CSS)*
+- **Texproseg 360°** — Landing corporativa para una empresa de dotación y EPP, hecha solo con HTML y CSS. *(HTML · CSS)* Ver sitio en www.texproseg360.com
 -  **FlashBuy** — Plataforma de pedidos por WhatsApp para restaurantes, cafeterías y panaderías: cada negocio tiene su panel, su catálogo y su página pública para recibir pedidos. *(React · TypeScript · Tailwind CSS · Supabase)* Ver sitio en https://flashbuy.app/
 
 <br>
