@@ -30,6 +30,7 @@
 - **Chantilly** — Web para una pastelería con catálogo por categorías, pedidos por WhatsApp y panel de administrador para gestionar productos y fotos. *(Vite · Tailwind CSS · Supabase)* Ver sitio en www.chantillycom.com
 - **Texproseg 360°** — Landing corporativa para una empresa de dotación y EPP, hecha solo con HTML y CSS. *(HTML · CSS)* Ver sitio en www.texproseg360.com
 -  **FlashBuy** — Plataforma de pedidos por WhatsApp para restaurantes, cafeterías y panaderías: cada negocio tiene su panel, su catálogo y su página pública para recibir pedidos. *(React · TypeScript · Tailwind CSS · Supabase)* Ver sitio en https://flashbuy.app/
+-  **Laura Muñoz** - Pagina web de personal profesional analista de datos y especialista en el area de compras y abastecimiento, hecha con HTML, CSS y JavaScript - Ver sitio en www.laurammunoz.com
 
 <br>
 
